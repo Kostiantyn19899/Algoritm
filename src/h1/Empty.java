@@ -1,10 +1,9 @@
 package h1;
 
-public class Task1 {
-
+public class Empty {
 
     public static void main(String[] args) {
-        int[] nums = {45, 2, 83, 4, 6, 1, 0};
+        int[] nums = {45, 2, 83, 4,6,1,0};
         //System.out.println(findMin(nums));
 
         findMinTwo(nums);
